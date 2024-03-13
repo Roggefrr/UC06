@@ -10,6 +10,15 @@ create table usuario(
 	senha varchar(25),
 	telefone char(11)
 );
+create table pessoal(
+		
+):
+create table beta(
+
+);
+create table comercial(
+
+);
 -- Criando a tabela perfil
 create table perfil(
 	id_perfil int primary key,
@@ -36,4 +45,9 @@ create table loging(
 	nome_usuario nvarchar(20),
 	email_usuario varchar(50)
 );
--- Criando a tabela
+-- Criando a bloqueio
+create table bloqueio(
+	id_bloqueio 
+);
+
+	
